@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T14:33:44.233Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jv47hyiZPMhqkUbNBqp3" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T15:04:03.477Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_oT6Yp12Jwe6lyOeu32O" version="15.9.6" type="github">
   <diagram id="NB04WgsUGA3Q6plx7QyO" name="Page-1">
-    <mxGraphModel dx="2370" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,9 +80,9 @@
           <mxGeometry y="168" width="270" height="94" as="geometry" />
         </mxCell>
         <mxCell id="lOIlzOHi8M5WWjDtRn3V-27" value="PhongQuanLy" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="692" y="1070" width="270" height="270" as="geometry" />
+          <mxGeometry x="692" y="1070" width="270" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="eOuTtYm0nMw0CgjEfieA-1" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;+ PhongQuanLy()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lOIlzOHi8M5WWjDtRn3V-27">
+        <mxCell id="eOuTtYm0nMw0CgjEfieA-1" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;+ PhongQuanLy()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
           <mxGeometry y="26" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lOIlzOHi8M5WWjDtRn3V-28" value="+ vector&lt;NhanSu*&gt;ListNhanSu&#xa;+ instance: PhongQuanLy* " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
@@ -91,13 +91,13 @@
         <mxCell id="lOIlzOHi8M5WWjDtRn3V-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
           <mxGeometry y="80" width="270" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="lOIlzOHi8M5WWjDtRn3V-30" value="&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;+ ~PhongQuanLy();&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;+ GetMaSo(): string&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: italic&quot;&gt;&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;i&gt;void NhapDanhSach();&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;i&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp;+ XuatDanhSach(): void&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;i&gt;&amp;nbsp;+ TongLuongNV(): float&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;i&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;+ MaxLuong(): void&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: italic&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
-          <mxGeometry y="88" width="270" height="100" as="geometry" />
+        <mxCell id="lOIlzOHi8M5WWjDtRn3V-30" value="&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;+ ~PhongQuanLy();&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;+ GetMaSo(): string&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-style: italic&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
+          <mxGeometry y="88" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lOIlzOHi8M5WWjDtRn3V-31" value="+ ThemDoiTuongMau(NhanSu* ns): void&#xa;+ TaoDoiTuongTheoTen(string ): NhanSu*&#xa;+ XoaDoiTuongMau(): void&#xa;+ XoaDoiTuongTheoMaSo(string): bool&#xa;+ getInstance(): PhongQuanLy*&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
-          <mxGeometry y="188" width="270" height="82" as="geometry" />
+        <mxCell id="lOIlzOHi8M5WWjDtRn3V-31" value="+ ThemDoiTuongMau(NhanSu* ns): void&#xa;+ TaoDoiTuongTheoTen(string ): NhanSu*&#xa;+ XoaDoiTuongMau(): void&#xa;+ XoaDoiTuongTheoMaSo(string): bool&#xa;+ getInstance(): PhongQuanLy*&#xa;+ Menu(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4" parent="lOIlzOHi8M5WWjDtRn3V-27" vertex="1">
+          <mxGeometry y="148" width="270" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="eOuTtYm0nMw0CgjEfieA-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.563;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lOIlzOHi8M5WWjDtRn3V-27" source="lOIlzOHi8M5WWjDtRn3V-27" target="lOIlzOHi8M5WWjDtRn3V-28">
+        <mxCell id="eOuTtYm0nMw0CgjEfieA-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.563;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="lOIlzOHi8M5WWjDtRn3V-27" source="lOIlzOHi8M5WWjDtRn3V-27" target="lOIlzOHi8M5WWjDtRn3V-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="88" y="10" as="sourcePoint" />
             <mxPoint x="328" y="70" as="targetPoint" />
